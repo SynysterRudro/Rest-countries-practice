@@ -1,0 +1,13 @@
+.header a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 2.5rem;
+    background-color: #002B36;
+    padding: 1%;
+}
+
+.header a:hover {
+    background-color: #002A90;
+    color: aqua;
+}
